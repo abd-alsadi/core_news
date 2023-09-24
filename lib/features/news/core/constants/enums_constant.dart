@@ -1,0 +1,12 @@
+// ignore_for_file: constant_identifier_names
+
+enum DrawerItemsActionEnum {
+  ACCOUNTS_ACTION,
+  PRIVACY_ACTION,
+  NOTIFICATIONS_ACTION,
+  STORAGE_DATA_ACTION,
+  APP_LANGUAGE_ACTION,
+  LOGOUT_ACTION,
+  ABOUT_ACTION,
+  APP_THEME_ACTION,
+}
